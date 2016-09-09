@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scripts/controllers/chartContoller.js",
+			"settings":
+			{
+				"buffer_size": 2153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/_desenv/Workspace/Sprint09Git/frontend/sin/src/main/webapp/resources/fonts/glyphicons-halflings-regular.ttf",
+			"settings":
+			{
+				"buffer_size": 103200,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/_desenv/bitbucket/angular-estudo",
+		"/C/_desenv/bitbucket/angular-estudo/js",
+		"/C/_desenv/bitbucket/angular-estudo/scripts",
+		"/C/_desenv/bitbucket/angular-estudo/scripts/controllers"
+	],
+	"file_history":
+	[
+		"/C/_desenv/bitbucket/angular-estudo/views/chart.html",
+		"/C/_desenv/bitbucket/angular-estudo/scripts/controllers/chartContoller.js",
+		"/C/_desenv/bitbucket/angular-estudo/views/dashboard/home.html",
+		"/C/_desenv/bitbucket/angular-estudo/views/dashboard/main.html",
+		"/C/_desenv/bitbucket/angular-estudo/views/form.html",
+		"/C/_desenv/bitbucket/angular-estudo/views/table.html",
+		"/C/_desenv/bitbucket/angular-estudo/views/pages/blank.html",
+		"/C/_desenv/bitbucket/angular-estudo/views/pages/login.html",
+		"/C/_desenv/bitbucket/angular-estudo/views/ui-elements/buttons.html",
+		"/C/_desenv/bitbucket/angular-estudo/scripts/controllers/form.js",
+		"/C/_desenv/bitbucket/angular-estudo/scripts/controllers/main.js",
+		"/C/_desenv/bitbucket/angular-estudo/scripts/directives/chat/chat.js",
+		"/C/_desenv/bitbucket/angular-estudo/scripts/directives/dashboard/stats/stats.js",
+		"/C/_desenv/bitbucket/angular-estudo/scripts/directives/header/header.js",
+		"/C/_desenv/bitbucket/angular-estudo/scripts/directives/notifications/notifications.js",
+		"/C/_desenv/bitbucket/angular-estudo/scripts/directives/sidebar/sidebar.js",
+		"/C/_desenv/bitbucket/angular-estudo/scripts/directives/timeline/timeline.js",
+		"/C/_desenv/bitbucket/angular-estudo/scripts/app.js",
+		"/C/_desenv/bitbucket/angular-estudo/js/sb-admin-2.js",
+		"/C/_desenv/bitbucket/angular-estudo/index.html",
+		"/C/_desenv/bitbucket/angular-estudo/angular-estudo.sublime-project",
+		"/C/_desenv/github/sb-admin-angular/package.json"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"",
+			"C:\\_desenv\\bitbucket\\angular-estudo",
+			"C:\\_desenv\\bitbucket\\angular-estudo,C:\\_desenv\\bitbucket\\angular-estudo",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"this",
+			"$scope.",
+			"$scope",
+			"ng-controller",
+			"ctrl",
+			"ng-controller=\"ChartCtrl\"",
+			"ctrl",
+			"$scope",
+			"sidebar",
+			"charts",
+			"loadMyDirectives"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vm.",
+			"ng-controller=\"ChartCtrl as ChartCtrl\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scripts/controllers/chartContoller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2153,
+								2153
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/_desenv/Workspace/Sprint09Git/frontend/sin/src/main/webapp/resources/fonts/glyphicons-halflings-regular.ttf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angular-estudo.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
